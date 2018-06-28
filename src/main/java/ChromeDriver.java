@@ -1,6 +1,8 @@
 public class ChromeDriver {
 
     public static void main(String[] args) {
+
+        System.out.printf("Hello, Testing! 你是谁？");
         //    URL url = ClassLoader.getSystemResource("");
 //    System.out.println(url.getPath());
 //    System.setProperty("webdriver.chrome.driver", url.getPath() + "driver" + File.separator + "chromedriver.exe");
